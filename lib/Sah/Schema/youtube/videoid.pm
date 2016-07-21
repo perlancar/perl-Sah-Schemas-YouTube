@@ -1,4 +1,4 @@
-package Sah::Schema::youtube::video_id;
+package Sah::Schema::youtube::videoid;
 
 # DATE
 # VERSION
